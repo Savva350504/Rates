@@ -1,0 +1,7 @@
+package com.example.andrey.myapplication1.err;
+
+public class OfflineException extends Exception {
+
+	private static final long serialVersionUID = 730082584617041729L;
+
+}

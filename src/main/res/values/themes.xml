@@ -1,0 +1,15 @@
+<resources>
+    
+    <style name="Theme.Puls.Light" parent="@style/Theme.AppCompat.Light">
+        <item name="bgTextured">@drawable/bg_textured</item>
+        <item name="buttonClose">@drawable/ic_close</item>
+        <item name="buttonRight">@drawable/ic_arrow_right</item>
+    </style>
+
+    <style name="Theme.Puls.Dark" parent="@style/Theme.AppCompat">
+        <item name="bgTextured">@drawable/bg_textured_dark</item>
+        <item name="buttonClose">@drawable/ic_close_dark</item>
+        <item name="buttonRight">@drawable/ic_arrow_right_dark</item>
+    </style>
+    
+</resources>
